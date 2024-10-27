@@ -43,11 +43,11 @@
         <img src="{{ asset('Photos/phone.png') }}" alt="Phone">
         <p>+316 30 985 409 SERVICENUMMER</p>
         <p>+3118 28 202 18 KANTOOR</p>
-        <p>BEREIKBAAR VAN 09:00-18:00</p>
+        <p>BEREIKBAAR VAN 09:00-17:30</p>
     </div>
     <div id="tijd">
         <img src="{{ asset('Photos/clock.png') }}" alt="Clock">
-        <p>MA T/M VRIJ, 09:00 - 23:00</p>
+        <p>MA T/M VRIJ, 09:00-18:30</p>
         <p>TELEFONISCH BEREIKBAAR</p>
         <p>VOOR ABONNEMENTHOUDERS</p>
     </div>
